@@ -1,0 +1,13 @@
+---
+name:  anovacontrasttest
+title: anovacontrasttest
+menuGroup: anovacontrast
+version: '1.0.0'
+jas: '1.2'
+
+options:
+    - name: varEq
+      title: Assume equal variances
+      type: Bool
+      default: true
+...

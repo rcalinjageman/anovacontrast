@@ -1,0 +1,11 @@
+---
+name:  anovacontrasttest
+title: anovacontrasttest
+jrs:   '1.1'
+
+items:
+    - name:  text
+      title: anovacontrasttest
+      type:  Preformatted
+
+...
